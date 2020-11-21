@@ -20,7 +20,7 @@ Spring Security is a powerful and highly customizable authentication and access-
 * Basic Auth
 * User Roles and Authorities
 * Form Based Authentication
-* Cross-Site Request Forgery
+* Cross-Site Request Forgery (CSRF)
 * Cookies and Sessions
 * Database Authentication
 * JSON Web Token (JWT)
